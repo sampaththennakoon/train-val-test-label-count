@@ -6,4 +6,4 @@ Analyse The Train And Validation Labels
 {'SA': 971, 'BL': 127, 'JB': 120, 'RA': 235, 'DM': 688, 'CL': 55, 'SRA': 56, 'PC': 548, 'SLA': 165, 'LA': 108, 'SL': 66}
 
 ### Analyse Validation XML Files
-{'SA': 107, 'SRA': 11, 'DM': 84, 'PC': 61, 'BL': 18, 'RA': 36, 'CL': 12, 'LA': 10, 'SLA': 16, 'JB': 7, 'SL': 7}
+{'SL': 6, 'DM': 82, 'JB': 8, 'SA': 117, 'SLA': 15, 'PC': 63, 'RA': 25, 'SRA': 2, 'LA': 10, 'BL': 15, 'CL': 6}
