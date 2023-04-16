@@ -1,0 +1,28 @@
+<annotation>
+  <folder>bbox_annotations</folder>
+  <filename>317b.jpg</filename>
+  <path>images/317b.jpg</path>
+  <vehicle>3</vehicle>
+  <camera>1</camera>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>PC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>34</xmin>
+      <ymin>239</ymin>
+      <xmax>638</xmax>
+      <ymax>299</ymax>
+    </bndbox>
+  </object>
+</annotation>

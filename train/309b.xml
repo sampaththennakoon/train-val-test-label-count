@@ -1,0 +1,28 @@
+<annotation>
+  <folder>bbox_annotations</folder>
+  <filename>309b.jpg</filename>
+  <path>images/309b.jpg</path>
+  <vehicle>3</vehicle>
+  <camera>1</camera>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>SLA</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>316</xmin>
+      <ymin>246</ymin>
+      <xmax>361</xmax>
+      <ymax>270</ymax>
+    </bndbox>
+  </object>
+</annotation>
